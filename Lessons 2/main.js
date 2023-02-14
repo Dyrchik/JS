@@ -193,3 +193,5 @@ if (coursesAndDurationArray[4].monthDuration > 5) {
 if (coursesAndDurationArray[5].monthDuration > 5) {
     console.log('Super - ', coursesAndDurationArray[5].title);
 }
+
+// Не додав опис змін. Завдання урок 2
